@@ -1,0 +1,661 @@
+2020-02-12 22:22:20,116 - HR Managment -INFO - URL is open
+2020-02-12 22:22:26,409 - HR Managment -INFO - Username is entered
+2020-02-12 22:22:26,512 - HR Managment -INFO - Password is entered
+2020-02-12 22:22:28,478 - HR Managment -INFO - Login test is Passed
+2020-02-13 09:19:20,648 - OrangeHRM -INFO - Url is opened
+2020-02-13 09:19:27,046 - OrangeHRM -INFO - Username is entered
+2020-02-13 09:19:27,151 - OrangeHRM -INFO - Password is entered
+2020-02-13 09:19:28,757 - OrangeHRM -INFO - Login test is passed
+2020-02-13 09:20:51,039 - OrangeHRM -INFO - Url is opened
+2020-02-13 09:20:57,400 - OrangeHRM -INFO - Username is entered
+2020-02-13 09:20:57,496 - OrangeHRM -INFO - Password is entered
+2020-02-13 09:25:12,818 - OrangeHRM -INFO - Url is opened
+2020-02-13 09:25:19,233 - OrangeHRM -INFO - Username is entered
+2020-02-13 09:25:19,323 - OrangeHRM -INFO - Password is entered
+2020-02-13 09:25:20,902 - OrangeHRM -INFO - Login test is passed
+2020-02-13 09:58:16,730 - OrangeHRM -INFO - Url is opened
+2020-02-13 09:58:23,077 - OrangeHRM -INFO - Username is entered
+2020-02-13 09:58:23,173 - OrangeHRM -INFO - Password is entered
+2020-02-13 09:58:24,955 - OrangeHRM -INFO - Login test is passed
+2020-02-13 10:25:49,965 - OrangeHRM -INFO - Url is opened
+2020-02-13 10:25:56,337 - OrangeHRM -INFO - Username is entered
+2020-02-13 10:25:56,431 - OrangeHRM -INFO - Password is entered
+2020-02-13 10:25:58,300 - OrangeHRM -INFO - Login test is passed
+2020-02-13 10:28:43,548 - OrangeHRM -INFO - Url is opened
+2020-02-13 10:28:45,721 - OrangeHRM -INFO - Username is entered
+2020-02-13 10:28:45,751 - OrangeHRM -INFO - Password is entered
+2020-02-13 10:28:47,237 - OrangeHRM -INFO - Login test is passed
+2020-02-13 10:55:28,418 - OrangeHRM -INFO - Url is opened
+2020-02-13 10:55:34,731 - OrangeHRM -INFO - Username is entered
+2020-02-13 10:55:34,830 - OrangeHRM -INFO - Password is entered
+2020-02-13 10:55:36,253 - OrangeHRM -INFO - Login test is passed
+2020-02-13 14:58:22,356 - OrangeHRM -INFO - Url is opened
+2020-02-13 14:58:28,788 - OrangeHRM -INFO - Username is entered
+2020-02-13 14:58:28,874 - OrangeHRM -INFO - Password is entered
+2020-02-13 14:58:34,741 - OrangeHRM -INFO - Login test is passed
+2020-02-13 14:59:23,487 - OrangeHRM -INFO - Url is opened
+2020-02-13 14:59:29,813 - OrangeHRM -INFO - Username is entered
+2020-02-13 14:59:29,903 - OrangeHRM -INFO - Password is entered
+2020-02-13 15:08:17,602 - OrangeHRM -INFO - Url is opened
+2020-02-13 15:08:23,913 - OrangeHRM -INFO - Username is entered
+2020-02-13 15:08:24,003 - OrangeHRM -INFO - Password is entered
+2020-02-13 15:14:11,771 - OrangeHRM -INFO - Url is opened
+2020-02-13 15:14:18,097 - OrangeHRM -INFO - Username is entered
+2020-02-13 15:14:18,189 - OrangeHRM -INFO - Password is entered
+2020-02-13 15:16:13,850 - OrangeHRM -INFO - Url is opened
+2020-02-13 15:16:20,173 - OrangeHRM -INFO - Username is entered
+2020-02-13 15:16:20,272 - OrangeHRM -INFO - Password is entered
+2020-02-13 16:46:41,331 - OrangeHRM -INFO - Username is entered
+2020-02-13 16:46:41,448 - OrangeHRM -INFO - Password is entered
+2020-02-13 16:46:41,976 - OrangeHRM -WARN - Login is pass
+2020-02-13 16:46:42,099 - OrangeHRM -INFO - Username is entered
+2020-02-13 16:46:42,173 - OrangeHRM -INFO - Password is entered
+2020-02-13 16:46:42,590 - OrangeHRM -WARN - Login is pass
+2020-02-13 16:46:42,693 - OrangeHRM -INFO - Username is entered
+2020-02-13 16:46:42,776 - OrangeHRM -INFO - Password is entered
+2020-02-13 16:46:43,189 - OrangeHRM -WARN - Login is pass
+2020-02-13 16:50:02,053 - OrangeHRM -INFO - Username is entered
+2020-02-13 16:50:02,160 - OrangeHRM -INFO - Password is entered
+2020-02-13 16:50:02,701 - OrangeHRM -WARN - Login is pass
+2020-02-13 16:50:04,871 - OrangeHRM -INFO - Username is entered
+2020-02-13 16:50:04,966 - OrangeHRM -INFO - Password is entered
+2020-02-13 16:50:05,446 - OrangeHRM -WARN - Login is pass
+2020-02-13 16:50:07,602 - OrangeHRM -INFO - Username is entered
+2020-02-13 16:50:07,676 - OrangeHRM -INFO - Password is entered
+2020-02-13 16:50:08,039 - OrangeHRM -WARN - Login is pass
+2020-02-13 16:55:46,108 - OrangeHRM -INFO - Username is entered
+2020-02-13 16:55:46,202 - OrangeHRM -INFO - Password is entered
+2020-02-13 16:55:49,629 - OrangeHRM -WARN - Login is pass
+2020-02-13 16:55:51,805 - OrangeHRM -INFO - Username is entered
+2020-02-13 16:55:51,887 - OrangeHRM -INFO - Password is entered
+2020-02-13 16:55:55,272 - OrangeHRM -WARN - Login is pass
+2020-02-13 16:55:57,429 - OrangeHRM -INFO - Username is entered
+2020-02-13 16:55:57,506 - OrangeHRM -INFO - Password is entered
+2020-02-13 16:56:00,913 - OrangeHRM -WARN - Login is pass
+2020-02-13 17:00:07,219 - OrangeHRM -INFO - Username is entered
+2020-02-13 17:00:07,306 - OrangeHRM -INFO - Password is entered
+2020-02-13 17:00:10,804 - OrangeHRM -WARN - Login is pass
+2020-02-13 17:00:12,983 - OrangeHRM -INFO - Username is entered
+2020-02-13 17:00:13,059 - OrangeHRM -INFO - Password is entered
+2020-02-13 17:00:16,452 - OrangeHRM -WARN - Login is pass
+2020-02-13 17:00:18,604 - OrangeHRM -INFO - Username is entered
+2020-02-13 17:00:18,692 - OrangeHRM -INFO - Password is entered
+2020-02-13 17:00:22,255 - OrangeHRM -WARN - Login is pass
+2020-02-13 17:02:26,451 - OrangeHRM -INFO - Username is entered
+2020-02-13 17:02:26,544 - OrangeHRM -INFO - Password is entered
+2020-02-13 17:02:30,041 - OrangeHRM -WARN - Login is pass
+2020-02-13 17:02:32,222 - OrangeHRM -INFO - Username is entered
+2020-02-13 17:02:32,312 - OrangeHRM -INFO - Password is entered
+2020-02-13 17:02:35,680 - OrangeHRM -WARN - Login is pass
+2020-02-13 17:02:37,843 - OrangeHRM -INFO - Username is entered
+2020-02-13 17:02:37,926 - OrangeHRM -INFO - Password is entered
+2020-02-13 17:02:41,458 - OrangeHRM -WARN - Login is pass
+2020-02-13 17:04:03,411 - OrangeHRM -INFO - Username is entered
+2020-02-13 17:04:03,504 - OrangeHRM -INFO - Password is entered
+2020-02-13 17:04:08,114 - OrangeHRM -WARN - Login is pass
+2020-02-13 17:11:48,287 - OrangeHRM -INFO - Username is entered
+2020-02-13 17:11:48,397 - OrangeHRM -INFO - Password is entered
+2020-02-13 17:11:55,270 - OrangeHRM -INFO - Login test is passed
+2020-02-13 17:15:38,423 - OrangeHRM -INFO - Username is entered
+2020-02-13 17:15:38,510 - OrangeHRM -INFO - Password is entered
+2020-02-13 17:15:45,161 - OrangeHRM -INFO - Login test is passed
+2020-02-13 17:21:20,842 - OrangeHRM -INFO - Username is entered
+2020-02-13 17:21:20,974 - OrangeHRM -INFO - Password is entered
+2020-02-13 17:21:28,131 - OrangeHRM -INFO - Login test is passed
+2020-02-13 17:26:41,130 - OrangeHRM -INFO - Username is entered
+2020-02-13 17:26:41,241 - OrangeHRM -INFO - Password is entered
+2020-02-13 17:26:48,530 - OrangeHRM -INFO - Login test is passed
+2020-02-13 17:26:48,627 - OrangeHRM -INFO - Username is entered
+2020-02-13 17:26:48,711 - OrangeHRM -INFO - Password is entered
+2020-02-13 17:26:56,472 - OrangeHRM -INFO - Login test is passed
+2020-02-13 17:26:56,559 - OrangeHRM -INFO - Username is entered
+2020-02-13 17:26:56,643 - OrangeHRM -INFO - Password is entered
+2020-02-13 17:27:03,688 - OrangeHRM -INFO - Login test is passed
+2020-02-13 17:27:03,786 - OrangeHRM -INFO - Username is entered
+2020-02-13 17:27:03,875 - OrangeHRM -INFO - Password is entered
+2020-02-13 17:27:10,894 - OrangeHRM -INFO - Login test is passed
+2020-02-13 17:33:56,362 - OrangeHRM -INFO - Username is entered
+2020-02-13 17:33:56,457 - OrangeHRM -INFO - Password is entered
+2020-02-13 17:34:06,362 - OrangeHRM -INFO - Login test is passed
+2020-02-13 17:34:06,461 - OrangeHRM -INFO - Username is entered
+2020-02-13 17:34:06,542 - OrangeHRM -INFO - Password is entered
+2020-02-13 17:34:12,441 - OrangeHRM -INFO - Username is entered
+2020-02-13 17:34:12,523 - OrangeHRM -INFO - Password is entered
+2020-02-13 17:34:18,423 - OrangeHRM -INFO - Username is entered
+2020-02-13 17:34:18,513 - OrangeHRM -INFO - Password is entered
+2020-02-13 17:34:25,536 - OrangeHRM -INFO - Login test is passed
+2020-02-13 22:16:14,440 - OrangeHRM -INFO - Username is entered
+2020-02-13 22:16:14,565 - OrangeHRM -INFO - Password is entered
+2020-02-13 22:18:09,353 - OrangeHRM -INFO - Username is entered
+2020-02-13 22:18:09,446 - OrangeHRM -INFO - Password is entered
+2020-02-13 22:22:52,107 - OrangeHRM -INFO - Username is entered
+2020-02-13 22:22:52,204 - OrangeHRM -INFO - Password is entered
+2020-02-13 22:26:10,931 - OrangeHRM -INFO - Username is entered
+2020-02-13 22:26:11,028 - OrangeHRM -INFO - Password is entered
+2020-02-13 22:29:00,069 - OrangeHRM -INFO - Username is entered
+2020-02-13 22:29:00,167 - OrangeHRM -INFO - Password is entered
+2020-02-13 22:36:19,034 - OrangeHRM -INFO - Username is entered
+2020-02-13 22:36:19,127 - OrangeHRM -INFO - Password is entered
+2020-02-13 22:38:36,562 - OrangeHRM -INFO - Username is entered
+2020-02-13 22:38:36,669 - OrangeHRM -INFO - Password is entered
+2020-02-13 22:39:43,885 - OrangeHRM -INFO - Username is entered
+2020-02-13 22:39:43,985 - OrangeHRM -INFO - Password is entered
+2020-02-13 22:43:38,792 - OrangeHRM -INFO - Username is entered
+2020-02-13 22:43:38,897 - OrangeHRM -INFO - Password is entered
+2020-02-13 22:46:13,354 - OrangeHRM -INFO - Username is entered
+2020-02-13 22:46:13,447 - OrangeHRM -INFO - Password is entered
+2020-02-13 22:48:13,544 - OrangeHRM -INFO - Username is entered
+2020-02-13 22:48:13,640 - OrangeHRM -INFO - Password is entered
+2020-02-13 22:48:21,216 - OrangeHRM -INFO - Login test is passed
+2020-02-13 22:48:21,309 - OrangeHRM -INFO - Username is entered
+2020-02-13 22:48:21,390 - OrangeHRM -INFO - Password is entered
+2020-02-13 22:48:25,486 - OrangeHRM -INFO - Username is entered
+2020-02-13 22:48:25,635 - OrangeHRM -INFO - Password is entered
+2020-02-13 22:48:29,563 - OrangeHRM -INFO - Username is entered
+2020-02-13 22:48:29,716 - OrangeHRM -INFO - Password is entered
+2020-02-13 22:48:37,287 - OrangeHRM -INFO - Login test is passed
+2020-02-13 22:52:25,168 - OrangeHRM -INFO - Username is entered
+2020-02-13 22:52:25,273 - OrangeHRM -INFO - Password is entered
+2020-02-13 22:52:32,707 - OrangeHRM -INFO - Login test is passed
+2020-02-13 22:52:32,794 - OrangeHRM -INFO - Username is entered
+2020-02-13 22:52:32,874 - OrangeHRM -INFO - Password is entered
+2020-02-13 22:52:36,837 - OrangeHRM -INFO - Username is entered
+2020-02-13 22:52:36,928 - OrangeHRM -INFO - Password is entered
+2020-02-13 22:52:40,879 - OrangeHRM -INFO - Username is entered
+2020-02-13 22:52:41,028 - OrangeHRM -INFO - Password is entered
+2020-02-13 22:52:48,474 - OrangeHRM -INFO - Login test is passed
+2020-02-13 23:00:20,477 - OrangeHRM -INFO - Username is entered
+2020-02-13 23:00:20,614 - OrangeHRM -INFO - Password is entered
+2020-02-13 23:00:28,372 - OrangeHRM -INFO - Login test is passed
+2020-02-13 23:00:28,488 - OrangeHRM -INFO - Username is entered
+2020-02-13 23:00:28,572 - OrangeHRM -INFO - Password is entered
+2020-02-13 23:00:32,501 - OrangeHRM -INFO - Username is entered
+2020-02-13 23:00:32,588 - OrangeHRM -INFO - Password is entered
+2020-02-13 23:00:36,517 - OrangeHRM -INFO - Username is entered
+2020-02-13 23:00:36,606 - OrangeHRM -INFO - Password is entered
+2020-02-13 23:00:44,234 - OrangeHRM -INFO - Login test is passed
+2020-02-13 23:02:59,717 - OrangeHRM -INFO - Url is opened
+2020-02-13 23:03:01,897 - OrangeHRM -INFO - Username is entered
+2020-02-13 23:03:01,993 - OrangeHRM -INFO - Password is entered
+2020-02-13 23:03:03,597 - OrangeHRM -INFO - Login test is passed
+2020-02-13 23:19:23,161 - OrangeHRM -INFO - Url is opened
+2020-02-13 23:19:25,365 - OrangeHRM -INFO - Username is entered
+2020-02-13 23:19:25,461 - OrangeHRM -INFO - Password is entered
+2020-02-13 23:42:09,439 - OrangeHRM -INFO - Username is entered
+2020-02-13 23:42:09,535 - OrangeHRM -INFO - Password is entered
+2020-02-13 23:42:17,767 - OrangeHRM -INFO - Username is entered
+2020-02-13 23:42:17,846 - OrangeHRM -INFO - Password is entered
+2020-02-13 23:42:21,824 - OrangeHRM -INFO - Username is entered
+2020-02-13 23:42:21,971 - OrangeHRM -INFO - Password is entered
+2020-02-13 23:42:25,955 - OrangeHRM -INFO - Username is entered
+2020-02-13 23:42:26,044 - OrangeHRM -INFO - Password is entered
+2020-02-13 23:46:52,729 - OrangeHRM -INFO - Username is entered
+2020-02-13 23:46:52,827 - OrangeHRM -INFO - Password is entered
+2020-02-13 23:47:00,712 - OrangeHRM -INFO - Username is entered
+2020-02-13 23:47:00,788 - OrangeHRM -INFO - Password is entered
+2020-02-13 23:47:04,678 - OrangeHRM -INFO - Username is entered
+2020-02-13 23:47:04,769 - OrangeHRM -INFO - Password is entered
+2020-02-13 23:47:08,701 - OrangeHRM -INFO - Username is entered
+2020-02-13 23:47:08,855 - OrangeHRM -INFO - Password is entered
+2020-02-13 23:51:37,917 - OrangeHRM -INFO - Username is entered
+2020-02-13 23:51:38,014 - OrangeHRM -INFO - Password is entered
+2020-02-13 23:51:42,584 - OrangeHRM -INFO - Login test is passed
+2020-02-13 23:51:45,492 - OrangeHRM -INFO - Username is entered
+2020-02-13 23:51:45,573 - OrangeHRM -INFO - Password is entered
+2020-02-13 23:51:49,827 - OrangeHRM -INFO - Username is entered
+2020-02-13 23:51:49,916 - OrangeHRM -INFO - Password is entered
+2020-02-13 23:51:54,120 - OrangeHRM -INFO - Username is entered
+2020-02-13 23:51:54,207 - OrangeHRM -INFO - Password is entered
+2020-02-13 23:51:58,676 - OrangeHRM -INFO - Login test is passed
+2020-02-14 00:01:25,067 - OrangeHRM -INFO - Username is entered
+2020-02-14 00:01:25,162 - OrangeHRM -INFO - Password is entered
+2020-02-14 00:01:29,685 - OrangeHRM -INFO - Login test is passed
+2020-02-14 00:01:32,897 - OrangeHRM -INFO - Username is entered
+2020-02-14 00:01:32,983 - OrangeHRM -INFO - Password is entered
+2020-02-14 00:01:36,896 - OrangeHRM -INFO - Username is entered
+2020-02-14 00:01:36,986 - OrangeHRM -INFO - Password is entered
+2020-02-14 00:01:40,899 - OrangeHRM -INFO - Username is entered
+2020-02-14 00:01:40,989 - OrangeHRM -INFO - Password is entered
+2020-02-14 00:01:45,678 - OrangeHRM -INFO - Login test is passed
+2020-02-14 00:10:29,158 - OrangeHRM -INFO - Username is entered
+2020-02-14 00:10:29,251 - OrangeHRM -INFO - Password is entered
+2020-02-14 00:10:33,989 - OrangeHRM -INFO - Login test is passed
+2020-02-14 00:10:37,004 - OrangeHRM -INFO - Username is entered
+2020-02-14 00:10:37,082 - OrangeHRM -INFO - Password is entered
+2020-02-14 00:10:40,964 - OrangeHRM -INFO - Username is entered
+2020-02-14 00:10:41,051 - OrangeHRM -INFO - Password is entered
+2020-02-14 00:10:44,952 - OrangeHRM -INFO - Username is entered
+2020-02-14 00:10:45,034 - OrangeHRM -INFO - Password is entered
+2020-02-14 00:10:49,574 - OrangeHRM -INFO - Login test is passed
+2020-02-14 00:17:02,311 - OrangeHRM -INFO - Username is entered
+2020-02-14 00:17:02,421 - OrangeHRM -INFO - Password is entered
+2020-02-14 00:17:53,919 - OrangeHRM -INFO - Username is entered
+2020-02-14 00:17:54,046 - OrangeHRM -INFO - Password is entered
+2020-02-14 00:17:58,730 - OrangeHRM -INFO - Login test is passed
+2020-02-14 00:18:01,902 - OrangeHRM -INFO - Username is entered
+2020-02-14 00:18:01,985 - OrangeHRM -INFO - Password is entered
+2020-02-14 00:18:05,704 - OrangeHRM -INFO - Login test is passed
+2020-02-14 00:18:05,923 - OrangeHRM -INFO - Username is entered
+2020-02-14 00:18:06,009 - OrangeHRM -INFO - Password is entered
+2020-02-14 00:18:09,715 - OrangeHRM -INFO - Login test is passed
+2020-02-14 00:18:09,924 - OrangeHRM -INFO - Username is entered
+2020-02-14 00:18:10,009 - OrangeHRM -INFO - Password is entered
+2020-02-14 00:18:14,752 - OrangeHRM -INFO - Login test is passed
+2020-02-14 00:24:23,942 - OrangeHRM -INFO - Url is opened
+2020-02-14 00:24:26,112 - OrangeHRM -INFO - Username is entered
+2020-02-14 00:24:26,213 - OrangeHRM -INFO - Password is entered
+2020-02-14 00:24:27,848 - OrangeHRM -INFO - Login test is passed
+2020-02-14 00:25:43,991 - OrangeHRM -INFO - Url is opened
+2020-02-14 00:25:46,220 - OrangeHRM -INFO - Username is entered
+2020-02-14 00:25:46,340 - OrangeHRM -INFO - Password is entered
+2020-02-14 02:37:15,512 - OrangeHRM -INFO - Username is provided
+2020-02-14 02:37:15,624 - OrangeHRM -INFO - Password is provided
+2020-02-14 02:37:21,334 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 02:41:02,044 - OrangeHRM -INFO - Username is provided
+2020-02-14 02:41:02,135 - OrangeHRM -INFO - Password is provided
+2020-02-14 02:41:06,868 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 02:41:33,837 - OrangeHRM -INFO - Username is provided
+2020-02-14 02:41:33,954 - OrangeHRM -INFO - Password is provided
+2020-02-14 02:41:39,044 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 02:46:35,647 - OrangeHRM -INFO - Username is provided
+2020-02-14 02:46:35,770 - OrangeHRM -INFO - Password is provided
+2020-02-14 02:46:40,863 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 02:46:43,114 - OrangeHRM -INFO - Getting the employee ID...!
+2020-02-14 02:46:43,114 - OrangeHRM -INFO - Photograph is uploaded...!
+2020-02-14 02:46:45,234 - OrangeHRM -INFO - Create login details is provided...!
+2020-02-14 02:46:47,618 - OrangeHRM -INFO - Validation is started...!
+2020-02-14 02:49:46,748 - OrangeHRM -INFO - Username is provided
+2020-02-14 02:49:46,863 - OrangeHRM -INFO - Password is provided
+2020-02-14 02:49:51,543 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 02:50:20,137 - OrangeHRM -INFO - Username is provided
+2020-02-14 02:50:20,259 - OrangeHRM -INFO - Password is provided
+2020-02-14 02:50:25,405 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 02:50:27,643 - OrangeHRM -INFO - Getting the employee ID...!
+2020-02-14 02:50:27,644 - OrangeHRM -INFO - Photograph is uploaded...!
+2020-02-14 02:50:30,774 - OrangeHRM -INFO - Create login details is provided...!
+2020-02-14 02:50:34,185 - OrangeHRM -INFO - Validation is started...!
+2020-02-14 03:02:02,042 - OrangeHRM -INFO - Username is provided
+2020-02-14 03:02:02,170 - OrangeHRM -INFO - Password is provided
+2020-02-14 03:02:07,578 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 03:02:32,884 - OrangeHRM -INFO - Username is provided
+2020-02-14 03:02:33,012 - OrangeHRM -INFO - Password is provided
+2020-02-14 03:02:37,683 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 03:04:18,275 - OrangeHRM -INFO - Username is provided
+2020-02-14 03:04:18,381 - OrangeHRM -INFO - Password is provided
+2020-02-14 03:04:23,339 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 03:04:25,674 - OrangeHRM -INFO - Getting the employee ID...!
+2020-02-14 03:08:19,383 - OrangeHRM -INFO - Username is provided
+2020-02-14 03:08:19,506 - OrangeHRM -INFO - Password is provided
+2020-02-14 03:08:25,124 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 03:08:27,390 - OrangeHRM -INFO - Getting the employee ID...!
+2020-02-14 03:10:22,197 - OrangeHRM -INFO - Username is provided
+2020-02-14 03:10:22,330 - OrangeHRM -INFO - Password is provided
+2020-02-14 03:10:26,848 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 03:11:24,354 - OrangeHRM -INFO - Username is provided
+2020-02-14 03:11:24,461 - OrangeHRM -INFO - Password is provided
+2020-02-14 03:11:29,064 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 03:12:43,051 - OrangeHRM -INFO - Username is provided
+2020-02-14 03:12:43,169 - OrangeHRM -INFO - Password is provided
+2020-02-14 03:12:48,279 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 03:14:13,411 - OrangeHRM -INFO - Username is provided
+2020-02-14 03:14:13,525 - OrangeHRM -INFO - Password is provided
+2020-02-14 03:14:17,999 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 03:14:49,874 - OrangeHRM -INFO - Username is provided
+2020-02-14 03:14:49,984 - OrangeHRM -INFO - Password is provided
+2020-02-14 03:14:54,412 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 03:17:57,896 - OrangeHRM -INFO - Username is provided
+2020-02-14 03:17:58,008 - OrangeHRM -INFO - Password is provided
+2020-02-14 03:18:03,054 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 03:18:08,393 - OrangeHRM -INFO - Create login details is provided...!
+2020-02-14 03:18:14,261 - OrangeHRM -INFO - Validation is started...!
+2020-02-14 03:18:14,322 - OrangeHRM -INFO - Test is passed
+2020-02-14 03:22:41,633 - OrangeHRM -INFO - Username is provided
+2020-02-14 03:22:41,789 - OrangeHRM -INFO - Password is provided
+2020-02-14 03:22:46,979 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 03:22:52,337 - OrangeHRM -INFO - Create login details is provided...!
+2020-02-14 03:22:56,501 - OrangeHRM -INFO - Validation is started...!
+2020-02-14 03:24:33,311 - OrangeHRM -INFO - Username is provided
+2020-02-14 03:24:33,434 - OrangeHRM -INFO - Password is provided
+2020-02-14 03:24:38,208 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 03:25:04,631 - OrangeHRM -INFO - Username is provided
+2020-02-14 03:25:04,759 - OrangeHRM -INFO - Password is provided
+2020-02-14 03:25:09,930 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 03:25:41,246 - OrangeHRM -INFO - Username is provided
+2020-02-14 03:25:41,367 - OrangeHRM -INFO - Password is provided
+2020-02-14 03:25:47,255 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 03:25:52,604 - OrangeHRM -INFO - Create login details is provided...!
+2020-02-14 03:25:56,816 - OrangeHRM -INFO - Validation is started...!
+2020-02-14 03:27:34,740 - OrangeHRM -INFO - Username is provided
+2020-02-14 03:27:34,837 - OrangeHRM -INFO - Password is provided
+2020-02-14 03:27:39,585 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 03:28:07,302 - OrangeHRM -INFO - Username is provided
+2020-02-14 03:28:07,428 - OrangeHRM -INFO - Password is provided
+2020-02-14 03:28:16,874 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 03:29:47,821 - OrangeHRM -INFO - Username is provided
+2020-02-14 03:29:47,932 - OrangeHRM -INFO - Password is provided
+2020-02-14 03:29:52,366 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 03:30:55,338 - OrangeHRM -INFO - Username is provided
+2020-02-14 03:30:55,465 - OrangeHRM -INFO - Password is provided
+2020-02-14 03:31:00,275 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 03:31:30,575 - OrangeHRM -INFO - Username is provided
+2020-02-14 03:31:30,690 - OrangeHRM -INFO - Password is provided
+2020-02-14 03:31:35,088 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 03:32:56,513 - OrangeHRM -INFO - Username is provided
+2020-02-14 03:32:56,646 - OrangeHRM -INFO - Password is provided
+2020-02-14 03:33:01,732 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 03:35:43,285 - OrangeHRM -INFO - Username is provided
+2020-02-14 03:35:43,395 - OrangeHRM -INFO - Password is provided
+2020-02-14 03:35:48,847 - OrangeHRM -INFO - Providing the Add Employee detailes...!
+2020-02-14 09:29:48,384 - NewTourse -INFO - Username is provided
+2020-02-14 09:29:48,572 - NewTourse -INFO - Password is provided
+2020-02-14 09:30:11,005 - NewTourse -INFO - Providing the Add Employee detailes...!
+2020-02-14 09:33:48,524 - NewTourse -INFO - Username is provided
+2020-02-14 09:33:48,644 - NewTourse -INFO - Password is provided
+2020-02-14 09:33:54,168 - NewTourse -INFO - Validation is started...!
+2020-02-14 09:39:40,036 - NewTourse -INFO - Username is provided
+2020-02-14 09:39:40,131 - NewTourse -INFO - Password is provided
+2020-02-14 09:39:46,123 - NewTourse -INFO - Validation is started...!
+2020-02-14 09:46:46,250 - NewTourse -INFO - Username is provided
+2020-02-14 09:46:46,365 - NewTourse -INFO - Password is provided
+2020-02-14 09:46:51,511 - NewTourse -INFO - Validation is started...!
+2020-02-14 09:46:51,522 - NewTourse -INFO - Login test is passed
+2020-02-14 09:49:29,568 - NewTourse -INFO - Username is provided
+2020-02-14 09:49:29,706 - NewTourse -INFO - Password is provided
+2020-02-14 09:49:38,403 - NewTourse -INFO - Validation is started...!
+2020-02-14 09:49:38,418 - NewTourse -INFO - Login test is passed
+2020-02-14 09:53:09,867 - NewTourse -INFO - Username is provided
+2020-02-14 09:53:09,989 - NewTourse -INFO - Password is provided
+2020-02-14 09:53:18,729 - NewTourse -INFO - Providing the Add Employee detailes...!
+2020-02-14 09:53:24,355 - NewTourse -INFO - Create login details is provided...!
+2020-02-14 09:53:33,479 - NewTourse -INFO - Validation is started...!
+2020-02-14 09:53:33,525 - NewTourse -INFO - Login test is passed
+2020-02-14 09:54:25,076 - NewTourse -INFO - Username is provided
+2020-02-14 09:54:25,201 - NewTourse -INFO - Password is provided
+2020-02-14 09:54:34,131 - NewTourse -INFO - Providing the Add Employee detailes...!
+2020-02-14 09:54:39,714 - NewTourse -INFO - Create login details is provided...!
+2020-02-14 09:54:44,332 - NewTourse -INFO - Validation is started...!
+2020-02-14 09:56:12,186 - NewTourse -INFO - Username is provided
+2020-02-14 09:56:12,324 - NewTourse -INFO - Password is provided
+2020-02-14 09:56:20,677 - NewTourse -INFO - Providing the Add Employee detailes...!
+2020-02-14 09:56:26,401 - NewTourse -INFO - Create login details is provided...!
+2020-02-14 09:56:32,735 - NewTourse -INFO - Validation is started...!
+2020-02-14 09:56:32,801 - NewTourse -INFO - Test is passed
+2020-02-14 09:59:26,272 - NewTourse -INFO - Username is provided
+2020-02-14 09:59:26,371 - NewTourse -INFO - Password is provided
+2020-02-14 09:59:34,871 - NewTourse -INFO - Providing the Add Employee detailes...!
+2020-02-14 09:59:40,486 - NewTourse -INFO - Create login details is provided...!
+2020-02-14 09:59:46,564 - NewTourse -INFO - Validation is started...!
+2020-02-14 09:59:46,623 - NewTourse -INFO - Test is passed
+2020-02-14 10:02:23,302 - NewTourse -INFO - Url is opened
+2020-02-14 10:02:25,514 - NewTourse -INFO - Username is entered
+2020-02-14 10:02:25,607 - NewTourse -INFO - Password is entered
+2020-02-14 10:02:44,746 - NewTourse -INFO - Username is entered
+2020-02-14 10:02:44,852 - NewTourse -INFO - Password is entered
+2020-02-14 10:02:49,442 - NewTourse -INFO - Login test is passed
+2020-02-14 10:02:52,470 - NewTourse -INFO - Username is entered
+2020-02-14 10:02:52,552 - NewTourse -INFO - Password is entered
+2020-02-14 10:02:56,416 - NewTourse -INFO - Login test is passed
+2020-02-14 10:02:56,604 - NewTourse -INFO - Username is entered
+2020-02-14 10:02:56,691 - NewTourse -INFO - Password is entered
+2020-02-14 10:03:00,388 - NewTourse -INFO - Login test is passed
+2020-02-14 10:03:00,587 - NewTourse -INFO - Username is entered
+2020-02-14 10:03:00,673 - NewTourse -INFO - Password is entered
+2020-02-14 10:03:05,086 - NewTourse -INFO - Login test is passed
+2020-02-14 10:03:24,626 - NewTourse -INFO - Username is provided
+2020-02-14 10:03:24,728 - NewTourse -INFO - Password is provided
+2020-02-14 10:03:33,483 - NewTourse -INFO - Providing the Add Employee detailes...!
+2020-02-14 10:03:39,131 - NewTourse -INFO - Create login details is provided...!
+2020-02-14 10:03:45,991 - NewTourse -INFO - Validation is started...!
+2020-02-14 10:03:46,045 - NewTourse -INFO - Test is passed
+2020-02-14 10:13:54,966 - NewTourse -INFO - Username is entered
+2020-02-14 10:13:55,074 - NewTourse -INFO - Password is entered
+2020-02-14 10:13:59,880 - NewTourse -INFO - Login test is passed
+2020-02-14 10:15:14,848 - NewTourse -INFO - Username is entered
+2020-02-14 10:15:14,951 - NewTourse -INFO - Password is entered
+2020-02-14 10:15:19,521 - NewTourse -INFO - Login test is passed
+2020-02-14 10:16:25,415 - NewTourse -INFO - Url is opened
+2020-02-14 10:16:27,570 - NewTourse -INFO - Username is entered
+2020-02-14 10:16:27,672 - NewTourse -INFO - Password is entered
+2020-02-14 10:16:29,318 - NewTourse -INFO - Login test is passed
+2020-02-14 10:16:44,355 - NewTourse -INFO - Username is entered
+2020-02-14 10:16:44,454 - NewTourse -INFO - Password is entered
+2020-02-14 10:16:49,081 - NewTourse -INFO - Login test is passed
+2020-02-14 10:17:06,184 - NewTourse -INFO - Username is provided
+2020-02-14 10:17:06,285 - NewTourse -INFO - Password is provided
+2020-02-14 10:17:15,668 - NewTourse -INFO - Providing the Add Employee detailes...!
+2020-02-14 10:17:21,258 - NewTourse -INFO - Create login details is provided...!
+2020-02-14 10:17:25,936 - NewTourse -INFO - Validation is started...!
+2020-02-14 10:25:06,107 - NewTourse -INFO - Url is opened
+2020-02-14 10:25:08,264 - NewTourse -INFO - Username is entered
+2020-02-14 10:25:08,365 - NewTourse -INFO - Password is entered
+2020-02-14 10:25:10,014 - NewTourse -INFO - Login test is passed
+2020-02-14 10:25:24,619 - NewTourse -INFO - Username is entered
+2020-02-14 10:25:24,709 - NewTourse -INFO - Password is entered
+2020-02-14 10:25:29,265 - NewTourse -INFO - Login test is passed
+2020-02-14 10:25:32,207 - NewTourse -INFO - Username is entered
+2020-02-14 10:25:32,301 - NewTourse -INFO - Password is entered
+2020-02-14 10:25:36,067 - NewTourse -INFO - Login test is passed
+2020-02-14 10:25:36,288 - NewTourse -INFO - Username is entered
+2020-02-14 10:25:36,379 - NewTourse -INFO - Password is entered
+2020-02-14 10:25:40,087 - NewTourse -INFO - Login test is passed
+2020-02-14 10:25:40,311 - NewTourse -INFO - Username is entered
+2020-02-14 10:25:40,406 - NewTourse -INFO - Password is entered
+2020-02-14 10:25:45,008 - NewTourse -INFO - Login test is passed
+2020-02-14 10:26:05,386 - NewTourse -INFO - Username is provided
+2020-02-14 10:26:05,480 - NewTourse -INFO - Password is provided
+2020-02-14 10:26:14,108 - NewTourse -INFO - Providing the Add Employee detailes...!
+2020-02-14 10:26:19,670 - NewTourse -INFO - Create login details is provided...!
+2020-02-14 10:26:26,354 - NewTourse -INFO - Validation is started...!
+2020-02-14 10:26:26,411 - NewTourse -INFO - Test is passed
+2020-02-14 10:33:45,547 - NewTourse -INFO - Url is opened
+2020-02-14 10:33:47,707 - NewTourse -INFO - Username is entered
+2020-02-14 10:33:47,805 - NewTourse -INFO - Password is entered
+2020-02-14 10:33:49,399 - NewTourse -INFO - Login test is passed
+2020-02-14 10:34:04,492 - NewTourse -INFO - Username is entered
+2020-02-14 10:34:04,587 - NewTourse -INFO - Password is entered
+2020-02-14 10:34:09,311 - NewTourse -INFO - Login test is passed
+2020-02-14 10:34:12,396 - NewTourse -INFO - Username is entered
+2020-02-14 10:34:12,477 - NewTourse -INFO - Password is entered
+2020-02-14 10:34:16,366 - NewTourse -INFO - Login test is passed
+2020-02-14 10:34:16,580 - NewTourse -INFO - Username is entered
+2020-02-14 10:34:16,671 - NewTourse -INFO - Password is entered
+2020-02-14 10:34:20,379 - NewTourse -INFO - Login test is passed
+2020-02-14 10:34:20,599 - NewTourse -INFO - Username is entered
+2020-02-14 10:34:20,686 - NewTourse -INFO - Password is entered
+2020-02-14 10:34:25,136 - NewTourse -INFO - Login test is passed
+2020-02-14 10:34:44,635 - NewTourse -INFO - Username is provided
+2020-02-14 10:34:44,733 - NewTourse -INFO - Password is provided
+2020-02-14 10:34:53,143 - NewTourse -INFO - Providing the Add Employee detailes...!
+2020-02-14 10:34:58,730 - NewTourse -INFO - Create login details is provided...!
+2020-02-14 10:35:04,730 - NewTourse -INFO - Validation is started...!
+2020-02-14 10:35:04,783 - NewTourse -INFO - Test is passed
+2020-02-14 10:36:45,784 - NewTourse -INFO - Url is opened
+2020-02-14 10:36:47,985 - NewTourse -INFO - Username is entered
+2020-02-14 10:36:48,078 - NewTourse -INFO - Password is entered
+2020-02-14 10:36:50,057 - NewTourse -INFO - Login test is passed
+2020-02-14 10:37:04,987 - NewTourse -INFO - Username is entered
+2020-02-14 10:37:05,109 - NewTourse -INFO - Password is entered
+2020-02-14 10:37:10,086 - NewTourse -INFO - Login test is passed
+2020-02-14 10:37:12,953 - NewTourse -INFO - Username is entered
+2020-02-14 10:37:13,032 - NewTourse -INFO - Password is entered
+2020-02-14 10:37:16,786 - NewTourse -INFO - Login test is passed
+2020-02-14 10:37:16,985 - NewTourse -INFO - Username is entered
+2020-02-14 10:37:17,077 - NewTourse -INFO - Password is entered
+2020-02-14 10:37:20,778 - NewTourse -INFO - Login test is passed
+2020-02-14 10:37:20,958 - NewTourse -INFO - Username is entered
+2020-02-14 10:37:21,043 - NewTourse -INFO - Password is entered
+2020-02-14 10:37:25,815 - NewTourse -INFO - Login test is passed
+2020-02-14 10:37:45,300 - NewTourse -INFO - Username is provided
+2020-02-14 10:37:45,404 - NewTourse -INFO - Password is provided
+2020-02-14 10:37:54,237 - NewTourse -INFO - Providing the Add Employee detailes...!
+2020-02-14 10:37:59,958 - NewTourse -INFO - Create login details is provided...!
+2020-02-14 10:38:04,598 - NewTourse -INFO - Validation is started...!
+2020-02-14 10:41:27,192 - NewTourse -INFO - Url is opened
+2020-02-14 10:41:29,441 - NewTourse -INFO - Username is entered
+2020-02-14 10:41:29,530 - NewTourse -INFO - Password is entered
+2020-02-14 10:41:31,370 - NewTourse -INFO - Login test is passed
+2020-02-14 10:41:46,923 - NewTourse -INFO - Username is entered
+2020-02-14 10:41:47,012 - NewTourse -INFO - Password is entered
+2020-02-14 10:41:51,568 - NewTourse -INFO - Login test is passed
+2020-02-14 10:41:54,889 - NewTourse -INFO - Username is entered
+2020-02-14 10:41:54,966 - NewTourse -INFO - Password is entered
+2020-02-14 10:41:58,720 - NewTourse -INFO - Login test is passed
+2020-02-14 10:41:58,971 - NewTourse -INFO - Username is entered
+2020-02-14 10:41:59,120 - NewTourse -INFO - Password is entered
+2020-02-14 10:42:02,898 - NewTourse -INFO - Login test is passed
+2020-02-14 10:42:03,085 - NewTourse -INFO - Username is entered
+2020-02-14 10:42:03,186 - NewTourse -INFO - Password is entered
+2020-02-14 10:42:07,701 - NewTourse -INFO - Login test is passed
+2020-02-14 10:42:27,408 - NewTourse -INFO - Username is provided
+2020-02-14 10:42:27,589 - NewTourse -INFO - Password is provided
+2020-02-14 10:42:36,544 - NewTourse -INFO - Providing the Add Employee detailes...!
+2020-02-14 10:42:42,178 - NewTourse -INFO - Create login details is provided...!
+2020-02-14 10:42:48,783 - NewTourse -INFO - Validation is started...!
+2020-02-14 10:42:48,841 - NewTourse -INFO - Test is passed
+2020-02-14 10:45:03,744 - NewTourse -INFO - Username is entered
+2020-02-14 10:45:03,830 - NewTourse -INFO - Password is entered
+2020-02-14 10:45:07,818 - NewTourse -INFO - Login test is passed
+2020-02-14 10:45:07,976 - NewTourse -INFO - Username is entered
+2020-02-14 10:45:08,078 - NewTourse -INFO - Password is entered
+2020-02-14 10:45:11,890 - NewTourse -INFO - Login test is passed
+2020-02-14 12:52:44,506 - NewTourse -INFO - Url is opened
+2020-02-14 12:52:46,811 - NewTourse -INFO - Username is entered
+2020-02-14 12:52:46,930 - NewTourse -INFO - Password is entered
+2020-02-14 12:52:52,478 - NewTourse -INFO - Login test is passed
+2020-02-14 12:55:35,811 - NewTourse -INFO - Url is opened
+2020-02-14 12:55:38,033 - NewTourse -INFO - Username is entered
+2020-02-14 12:55:38,146 - NewTourse -INFO - Password is entered
+2020-02-14 16:22:12,522 - NewTourse -INFO - Url is opened
+2020-02-14 16:22:14,742 - NewTourse -INFO - Username is entered
+2020-02-14 16:22:14,834 - NewTourse -INFO - Password is entered
+2020-02-14 16:22:20,355 - NewTourse -INFO - Login test is passed
+2020-02-14 16:22:35,565 - NewTourse -INFO - Username is entered
+2020-02-14 16:22:35,653 - NewTourse -INFO - Password is entered
+2020-02-14 16:22:40,121 - NewTourse -INFO - Login test is passed
+2020-02-14 16:22:42,933 - NewTourse -INFO - Username is entered
+2020-02-14 16:22:43,007 - NewTourse -INFO - Password is entered
+2020-02-14 16:22:46,771 - NewTourse -INFO - Login test is passed
+2020-02-14 16:22:46,988 - NewTourse -INFO - Username is entered
+2020-02-14 16:22:47,091 - NewTourse -INFO - Password is entered
+2020-02-14 16:22:50,904 - NewTourse -INFO - Login test is passed
+2020-02-14 16:22:51,024 - NewTourse -INFO - Username is entered
+2020-02-14 16:22:51,131 - NewTourse -INFO - Password is entered
+2020-02-14 16:22:55,514 - NewTourse -INFO - Login test is passed
+2020-02-14 16:23:22,076 - NewTourse -INFO - Username is provided
+2020-02-14 16:23:22,168 - NewTourse -INFO - Password is provided
+2020-02-14 16:23:31,988 - NewTourse -INFO - Providing the Add Employee detailes...!
+2020-02-14 16:23:37,374 - NewTourse -INFO - Create login details is provided...!
+2020-02-14 16:23:41,503 - NewTourse -INFO - Validation is started...!
+2020-02-14 19:39:12,208 - NewTourse -INFO - Url is opened
+2020-02-14 19:39:14,381 - NewTourse -INFO - Username is entered
+2020-02-14 19:39:14,476 - NewTourse -INFO - Password is entered
+2020-02-14 19:39:18,976 - NewTourse -INFO - Login test is passed
+2020-02-14 19:39:35,897 - NewTourse -INFO - Username is provided
+2020-02-14 19:39:35,993 - NewTourse -INFO - Password is provided
+2020-02-14 19:39:45,394 - NewTourse -INFO - Providing the Add Employee detailes...!
+2020-02-14 19:39:50,818 - NewTourse -INFO - Create login details is provided...!
+2020-02-14 19:39:54,994 - NewTourse -INFO - Validation is started...!
+2020-02-14 19:43:42,211 - NewTourse -INFO - Url is opened
+2020-02-14 19:43:44,468 - NewTourse -INFO - Username is entered
+2020-02-14 19:43:44,561 - NewTourse -INFO - Password is entered
+2020-02-14 19:43:46,139 - NewTourse -INFO - Login test is passed
+2020-02-14 19:44:03,542 - NewTourse -INFO - Username is provided
+2020-02-14 19:44:03,647 - NewTourse -INFO - Password is provided
+2020-02-14 19:44:11,861 - NewTourse -INFO - Providing the Add Employee detailes...!
+2020-02-14 19:44:17,232 - NewTourse -INFO - Create login details is provided...!
+2020-02-14 19:44:23,990 - NewTourse -INFO - Validation is started...!
+2020-02-14 19:44:24,040 - NewTourse -INFO - Test is passed
+2020-02-14 20:23:47,675 - NewTourse -INFO - Url is opened
+2020-02-14 20:23:49,834 - NewTourse -INFO - Username is entered
+2020-02-14 20:23:49,928 - NewTourse -INFO - Password is entered
+2020-02-14 20:23:51,432 - NewTourse -INFO - Login test is passed
+2020-02-14 20:24:08,088 - NewTourse -INFO - Username is provided
+2020-02-14 20:24:08,182 - NewTourse -INFO - Password is provided
+2020-02-14 20:24:16,256 - NewTourse -INFO - Providing the Add Employee detailes...!
+2020-02-14 20:24:21,640 - NewTourse -INFO - Create login details is provided...!
+2020-02-14 20:24:25,786 - NewTourse -INFO - Validation is started...!
+2020-02-14 20:29:10,297 - NewTourse -INFO - Url is opened
+2020-02-14 20:29:12,482 - NewTourse -INFO - Username is entered
+2020-02-14 20:29:12,573 - NewTourse -INFO - Password is entered
+2020-02-14 20:29:13,946 - NewTourse -INFO - Login test is passed
+2020-02-14 20:29:30,289 - NewTourse -INFO - Username is provided
+2020-02-14 20:29:30,380 - NewTourse -INFO - Password is provided
+2020-02-14 20:29:38,661 - NewTourse -INFO - Providing the Add Employee detailes...!
+2020-02-14 20:29:44,045 - NewTourse -INFO - Create login details is provided...!
+2020-02-14 20:29:49,271 - NewTourse -INFO - Validation is started...!
+2020-02-14 20:29:49,327 - NewTourse -INFO - Test is passed
+2020-02-14 21:56:13,505 - NewTourse -INFO - Url is opened
+2020-02-14 21:56:15,783 - NewTourse -INFO - Username is entered
+2020-02-14 21:56:15,879 - NewTourse -INFO - Password is entered
+2020-02-14 21:56:19,843 - NewTourse -INFO - Login test is passed
+2020-02-14 21:57:04,167 - NewTourse -INFO - Url is opened
+2020-02-14 21:57:06,331 - NewTourse -INFO - Username is entered
+2020-02-14 21:57:06,434 - NewTourse -INFO - Password is entered
+2020-02-14 21:57:08,023 - NewTourse -INFO - Login test is passed
+2020-02-14 22:05:11,419 - NewTourse -INFO - Username is entered
+2020-02-14 22:05:11,515 - NewTourse -INFO - Password is entered
+2020-02-14 22:05:16,190 - NewTourse -INFO - Login test is passed
+2020-02-14 22:05:18,990 - NewTourse -INFO - Username is entered
+2020-02-14 22:05:19,070 - NewTourse -INFO - Password is entered
+2020-02-14 22:05:22,855 - NewTourse -INFO - Login test is passed
+2020-02-14 22:05:22,996 - NewTourse -INFO - Username is entered
+2020-02-14 22:05:23,090 - NewTourse -INFO - Password is entered
+2020-02-14 22:05:26,819 - NewTourse -INFO - Login test is passed
+2020-02-14 22:05:26,995 - NewTourse -INFO - Username is entered
+2020-02-14 22:05:27,084 - NewTourse -INFO - Password is entered
+2020-02-14 22:05:31,402 - NewTourse -INFO - Login test is passed
+2020-02-14 22:13:09,338 - NewTourse -INFO - Url is opened
+2020-02-14 22:13:11,484 - NewTourse -INFO - Username is entered
+2020-02-14 22:13:11,580 - NewTourse -INFO - Password is entered
+2020-02-14 22:13:15,320 - NewTourse -INFO - Login test is passed
+2020-02-14 22:13:32,054 - NewTourse -INFO - Username is provided
+2020-02-14 22:13:32,163 - NewTourse -INFO - Password is provided
+2020-02-14 22:13:42,100 - NewTourse -INFO - Providing the Add Employee detailes...!
+2020-02-14 22:13:47,488 - NewTourse -INFO - Create login details is provided...!
+2020-02-14 22:13:51,616 - NewTourse -INFO - Validation is started...!
+2020-02-14 22:22:29,450 - NewTourse -INFO - Url is opened
+2020-02-14 22:22:31,608 - NewTourse -INFO - Username is entered
+2020-02-14 22:22:31,703 - NewTourse -INFO - Password is entered
+2020-02-14 22:22:34,815 - NewTourse -INFO - Login test is passed
+2020-02-14 22:22:51,858 - NewTourse -INFO - Username is provided
+2020-02-14 22:22:51,952 - NewTourse -INFO - Password is provided
+2020-02-14 22:23:00,779 - NewTourse -INFO - Providing the Add Employee detailes...!
+2020-02-14 22:23:06,154 - NewTourse -INFO - Create login details is provided...!
+2020-02-14 22:23:13,492 - NewTourse -INFO - Validation is started...!
+2020-02-14 22:23:13,533 - NewTourse -INFO - Test is passed
+2020-02-14 22:41:28,545 - NewTourse -INFO - Url is opened
+2020-02-14 22:41:30,737 - NewTourse -INFO - Username is entered
+2020-02-14 22:41:30,836 - NewTourse -INFO - Password is entered
+2020-02-14 22:41:34,064 - NewTourse -INFO - Login test is passed
+2020-02-14 22:41:50,562 - NewTourse -INFO - Username is provided
+2020-02-14 22:41:50,655 - NewTourse -INFO - Password is provided
+2020-02-14 22:41:59,032 - NewTourse -INFO - Providing the Add Employee detailes...!
+2020-02-14 22:42:04,413 - NewTourse -INFO - Create login details is provided...!
+2020-02-14 22:42:08,603 - NewTourse -INFO - Validation is started...!
+2020-02-14 22:43:26,721 - NewTourse -INFO - Url is opened
+2020-02-14 22:43:28,933 - NewTourse -INFO - Username is entered
+2020-02-14 22:43:29,029 - NewTourse -INFO - Password is entered
+2020-02-14 22:43:30,554 - NewTourse -INFO - Login test is passed
+2020-02-14 22:43:47,171 - NewTourse -INFO - Username is provided
+2020-02-14 22:43:47,260 - NewTourse -INFO - Password is provided
+2020-02-14 22:43:55,198 - NewTourse -INFO - Providing the Add Employee detailes...!
+2020-02-14 22:44:00,571 - NewTourse -INFO - Create login details is provided...!
+2020-02-14 22:44:04,813 - NewTourse -INFO - Validation is started...!
+2020-02-15 01:27:10,375 - NewTourse -INFO - Url is opened
+2020-02-15 01:27:12,961 - NewTourse -INFO - Username is entered
+2020-02-15 01:27:13,060 - NewTourse -INFO - Password is entered
+2020-02-15 01:27:22,681 - NewTourse -INFO - Login test is passed
+2020-02-15 01:27:39,436 - NewTourse -INFO - Username is provided
+2020-02-15 01:27:39,566 - NewTourse -INFO - Password is provided
+2020-02-15 01:27:51,640 - NewTourse -INFO - Providing the Add Employee detailes...!
+2020-02-15 01:27:57,205 - NewTourse -INFO - Create login details is provided...!
+2020-02-15 01:28:01,761 - NewTourse -INFO - Validation is started...!
+2020-02-15 09:11:20,580 - NewTourse -INFO - Url is opened
+2020-02-15 09:11:22,834 - NewTourse -INFO - Username is entered
+2020-02-15 09:11:22,929 - NewTourse -INFO - Password is entered
+2020-02-15 09:11:31,541 - NewTourse -INFO - Login test is passed
+2020-02-15 09:11:48,260 - NewTourse -INFO - Username is provided
+2020-02-15 09:11:48,431 - NewTourse -INFO - Password is provided
+2020-02-15 09:12:00,144 - NewTourse -INFO - Providing the Add Employee detailes...!
+2020-02-15 09:12:05,731 - NewTourse -INFO - Create login details is provided...!
+2020-02-15 09:12:10,351 - NewTourse -INFO - Validation is started...!

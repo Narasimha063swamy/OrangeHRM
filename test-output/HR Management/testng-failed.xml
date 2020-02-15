@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [HR Management]">
+  <listeners>
+    <listener class-name="com.OrangeHRM.Utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="Login Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.OrangeHRM.TestCases.TC_AddEmployeeTest_003">
+        <methods>
+          <include name="addemployee"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.OrangeHRM.TestCases.TC_AddEmployeeTest_003 -->
+    </classes>
+  </test> <!-- Login Test(failed) -->
+</suite> <!-- Failed suite [HR Management] -->

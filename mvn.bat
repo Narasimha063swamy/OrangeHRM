@@ -1,0 +1,1 @@
+cd C:\Users\admin\MyWork\HYBRID_FRAMEWORK>mvn clean install
